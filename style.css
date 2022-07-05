@@ -20,7 +20,7 @@ section {
     padding: 2%;
 }
 
-half-with img {
+.half-width {
     width: 70%;
 }
 
@@ -37,4 +37,10 @@ half-with img {
 .top-banner {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
